@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VideoDriver />
+  <UseSDLHardware>false</UseSDLHardware>
+  <FullScreen>false</FullScreen>
+  <JoyButtonA>0</JoyButtonA>
+  <JoyButtonB>1</JoyButtonB>
+  <JoyButtonC>2</JoyButtonC>
+  <JoyButtonD>3</JoyButtonD>
+  <RunCount>140</RunCount>
+</Setting>

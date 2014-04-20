@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NPTwins">
+</Property><Property Name="ソリューション ファイル" Value="C:\Documents and Settings\fukaya\My Documents\My Dropbox\dev\VisualStudio2010\NPTwins\NPTwins.sln">
+</Property><Property Name="Date" Value="2010年11月19日">
+</Property><Property Name="Time" Value="16:01">
+</Property></Properties><Event ErrorLevel="0" Project="NPTwins" Source="NPTwins\NPTwins.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="NPTwins" Source="NPTwins\NPTwins.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NPTwins.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="NPTwins.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NPTwins" Source="NPTwins\app.config" Description="ファイルは正常に変換されました。All &lt;supportedRuntime&gt;と &lt;requiredRuntime&gt; は、プロジェクトをビルドして Visual Studio 2005 で実行できるように削除されました。">
+</Event><Event ErrorLevel="3" Project="NPTwins" Source="NPTwins\app.config" Description="Converted">
+</Event></UpgradeLog>
