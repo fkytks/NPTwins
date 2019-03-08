@@ -20,6 +20,12 @@
     <StartWorkingDirectory>C:\Users\fukaya\Dropbox\dev\VisualStudio2010\NPTwins\NPTwins</StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <StartWorkingDirectory>C:\Documents and Settings\fukaya\My Documents\My Dropbox\dev\VisualStudio2010\NPTwins\NPTwins\</StartWorkingDirectory>
+    <StartWorkingDirectory>C:\Users\fukaya\Dropbox\dev\VisualStudio2017\NPTwins\NPTwins_latest</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartWorkingDirectory>C:\Users\fukaya\Dropbox\dev\VisualStudio2010\NPTwins\NPTwins</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartWorkingDirectory>C:\Users\fukaya\Dropbox\dev\VisualStudio2017\NPTwins\NPTwins_latest</StartWorkingDirectory>
   </PropertyGroup>
 </Project>
